@@ -1,0 +1,1 @@
+Jersey ExceptionMapper example Part 2: Catching user defined examples

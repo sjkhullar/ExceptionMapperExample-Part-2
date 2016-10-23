@@ -10,7 +10,7 @@ import org.learn.exception.MyNullPointerException;
 
 
 @Path("/exp")
-public class Resource {
+public class ExpResource {
 
 	@GET	
 	@Path("outofbound")
